@@ -1,0 +1,10 @@
+/*             
+CSS for Bubble Under site             
+*/             
+p {             
+ font-weight: bold;             
+ color: blue;             
+}
+
+body, html { background-color: #fff; margin:0px; margin-top:20px; padding:0px; border:0px; font-family: Georgia, 'Times New Roman', Times; font-size:16px; line-height:150%; color:#333; }
+      pre { font-size: 10px; }
